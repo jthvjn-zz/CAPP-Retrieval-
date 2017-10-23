@@ -1,0 +1,133 @@
+|................................................................................|
+|Prod.Planning|                           |Drg/Stk.No     |Fly - Z84 |Page :8    |
+|   HMTIV     |     OPERATION  LAYOUT     |845154021C     |Class- A  |Sheet:  1  |
+|................................................................................|
+|   P SECT    | Component Designation     |   B  Qty      |W.O.NUMBER|Issue Qty  |
+|    M252     | BEARING HOUSING           |    5          |          |           |
+|................................................................................|
+
+|................................................................................|
+|              Raw Material                                                      |
+|              ............                                                      |
+| SlNo: Stock No    :   Specification & size    Cut Qty    Tot.ps    No/Comp     |
+|................................................................................|
+|   1   K84515402       G3P BRG.HOUSING           0.0000     0         1         |
+|................................................................................|
+
+|...|....|...|..................................................|................|
+|Opn|Sect|Mac|           Description  of  Operation             |  Remarks       |
+|...|....|...|..................................................|................|
+|1  |M252|090|MARKING                                           |    Ts/To       |
+|   |    |   |.......                                           |  7/  15.0      |
+|   |    |   |   Mark off completely to distribute              |                |
+|   |    |   |   machining allowance                            |                |
+|   |    |   |                                                  |                |
+|2  |M252|226|V. MILLING                                        |    Ts/To       |
+|   |    |   |..........                                        | 42/  30.0      |
+|   |    |   |   With Grinding allowance                        | Fixture        |
+|   |    |   |   -----------------------                        |J2 20 24 440    |
+|   |    |   |   Mill bottom face 190 br * 185 lg               |                |
+|   |    |   |                                                  |                |
+|   |    |   |   Mill bottom face 55  br * 57 ' 57 lg           |                |
+|   |    |   |                                                  |                |
+|   |    |   |   Mill bottom step 36  ht * 57 ' 57 lg           |                |
+|   |    |   |                                                  |                |
+|   |    |   |   Mill top face 132 br * 125 lg                  |                |
+|   |    |   |   to dimn 128.8                                  |                |
+|   |    |   |                                                  |                |
+|3  |M252|216|H. MILLING                                        |    Ts/To       |
+|   |    |   |..........                                        | 50/ 120.0      |
+|   |    |   |   With Finishing allowance                       |                |
+|   |    |   |   ------------------------                       |                |
+|   |    |   |   Mill left side 55 br * 110 lg                  |                |
+|   |    |   |                                                  |                |
+|   |    |   |   Mill 185 br * 164.5 lg                         |                |
+|   |    |   |   incl. 35 br * 110 lg ( Left step face )        |                |
+|   |    |   |                                                  |                |
+|   |    |   |   Mill right side 55 br * 110 lg                 |                |
+|   |    |   |                                                  |                |
+|   |    |   |   Mill 185 br * 164.5 lg                         |                |
+|   |    |   |   incl. 35 br * 110 lg to dimn 190               |                |
+|   |    |   |                        ( right step face )       |                |
+|   |    |   |                                                  |                |
+|   |    |   |   Mill rear side 128.5 br * 190 lg               |                |
+|   |    |   |   to dimn. 125.5                                 |                |
+|   |    |   |                                                  |                |
+|   |    |   |   Mill front face 110 br * 57 ' 57 lg            |                |
+|   |    |   |   to dimn. 241                                   |                |
+|   |    |   |                                                  |                |
+|   |    |   |   Mill front face 146 br * 110 lg                |                |
+|   |    |   |   to dimn. 57 and 55.5                           |                |
+|   |    |   |                                                  |                |
+|................................................................................|
+| Prepared by :           |            Contact  Person          |Issue No:0      |
+| Name :FRANCIS K A       | Planning Engineers of:              |Revision:       |
+| Date :                  |              M252/845154021C        |                |
+|................................................................................|
+Printed on:  08/08/2016 
+|................................................................................|
+|Prod.Planning|                           |Drg/Stk.No     |Fly - Z84 |Page :9    |
+|   HMTIV     |     OPERATION  LAYOUT     |845154021C     |Class- A  |Sheet:  2  |
+|................................................................................|
+|...|....|...|..................................................|................|
+|Opn|Sect|Mac|           Description  of  Operation             |  Remarks       |
+|...|....|...|..................................................|................|
+|4  |M252|224|V. MILLING                                        |    Ts/To       |
+|   |    |   |..........                                        | 45/  30.0      |
+|   |    |   |   Mill 1 step 121 br * 260 lg                    |                |
+|   |    |   |                                                  |                |
+|   |    |   |   Mill 4 br * 0.2 dp * 190 lg                    |                |
+|   |    |   |                                                  |                |
+|   |    |   |   Mill 2 steps 29 br * 10 dp * 125 lg incl. R14.5|                |
+|   |    |   |                                                  |                |
+|5  |M252|216|H. MILLING                                        |    Ts/To       |
+|   |    |   |..........                                        | 42/  12.0      |
+|   |    |   |   Mill 2 cfs at 45 deg * 119 lg to dimn. 76      |                |
+|   |    |   |                                                  |                |
+|6  |M252|466|V. BORING                                         |    Ts/To       |
+|   |    |   |.........                                         | 48/  45.0      |
+|   |    |   |   Bore dia  47  *  39  lg                        |                |
+|   |    |   |                                                  |                |
+|   |    |   |   Bore dia  67  * 39.5 lg                        |                |
+|   |    |   |        dia  76  * 41.5 lg                        |                |
+|   |    |   |        dia 128  *  66  lg                        |                |
+|   |    |   |                                                  |                |
+|7  |M252|070|FITTING                                           |    Ts/To       |
+|   |    |   |.......                                           | 10/   3.0      |
+|   |    |   |   Deburr completely                              |                |
+|   |    |   |                                                  |                |
+|8  |M253|043|STRESS RELIEVING                                  |    Ts/To       |
+|   |    |   |................                                  |  0/  18.0      |
+|   |    |   |   Relieve all internal stresses                  |                |
+|   |    |   |                                                  |                |
+|9  |M253|793|SAND BLASTING                                     |    Ts/To       |
+|   |    |   |.............                                     | 20/   7.0      |
+|   |    |   |   Clean thoroughly                               |                |
+|   |    |   |                                                  |                |
+|10 |M252|515|SUR. GRINDING                                     |    Ts/To       |
+|   |    |   |.............                                     | 45/  30.0      |
+|   |    |   |   Grind top face 76 br * 119 lg                  | Fixture        |
+|   |    |   |                     ( for further operation )    |J2 20 24 440    |
+|   |    |   |                                                  |                |
+|   |    |   |   Grind bottom face 100 br * 185 lg              |                |
+|   |    |   |   to dimn 128.5                                  |                |
+|   |    |   |                                                  |                |
+|   |    |   |   Keep parallality 0.02                          |                |
+|   |    |   |                                                  |                |
+|11 |M261|486|HMC                                               |    Ts/To       |
+|   |    |   |...                                               | 80/ 120.0      |
+|   |    |   |   Mill front face 110 ht * 57 ' 57 lg            |                |
+|   |    |   |   to dimn 55                                     |                |
+|   |    |   |                                                  |                |
+|   |    |   |   Drill and tap 4 holes M12 * 30 / 25 dp at 'a'  |                |
+|   |    |   |                                                  |                |
+|   |    |   |   Bore dia  51  *  38  lg                        |                |
+|   |    |   |        dia  71  * 39.5 lg                        |                |
+|   |    |   |        dia 80-J6*  41.5 [ + 0.1 ] lg             |                |
+|   |    |   |                                                  |                |
+|   |    |   |   Keep dimn. 74 [ +/- 0.05 ]                     |                |
+|................................................................................|
+| Prepared by :           |            Contact  Person          |Issue No:0      |
+| Name :FRANCIS K A       | Planning Engineers of:              |Revision:       |
+| Date :                  |              M252/845154021C        |                |
+|................................................................................|
